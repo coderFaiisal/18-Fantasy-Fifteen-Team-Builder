@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "img": "https://i.ibb.co/HTQRTDk/Alison.png",
+    "name": "Alisson Backer",
+    "club": "Liverpool",
+    "position": "Goalkeeper",
+    "salary": "5"
+  },
+  {
+    "id": "2",
+    "img": "https://i.ibb.co/WtLv49X/De-Gea.png",
+    "name": "David de Gea",
+    "club": "Manchester United",
+    "position": "Goalkeeper",
+    "salary": "4.5"
+  },
+  {
+    "id": "3",
+    "img": "https://i.ibb.co/Gk0tNVK/Silva.png",
+    "name": "Thiago Silva",
+    "club": "Chelsea",
+    "position": "Defender",
+    "salary": "3"
+  },
+  {
+    "id": "4",
+    "img": "https://i.ibb.co/RjNZK50/Van-Dijk.png",
+    "name": "Virgil van Dijk",
+    "club": "Liverpool",
+    "position": "Defender",
+    "salary": "5"
+  },
+  {
+    "id": "5",
+    "img": "https://i.ibb.co/M8GmYc0/Varane.png",
+    "name": "Raphael Varane",
+    "club": "Manchester United",
+    "position": "Defender",
+    "salary": "10"
+  },
+  {
+    "id": "6",
+    "img": "https://i.ibb.co/mHDw701/Maguire.png",
+    "name": "Harry Maguire",
+    "club": "Manchester United",
+    "position": "Defender",
+    "salary": "8"
+  },
+  {
+    "id": "7",
+    "img": "https://i.ibb.co/vzvLxx6/Walker.png",
+    "name": "Kyle Walker",
+    "club": "Manchester City",
+    "position": "Defender",
+    "salary": "7"
+  },
+  {
+    "id": "8",
+    "img": "https://i.ibb.co/7kLHTHS/Arnold.png",
+    "name": "Trent Alexander-Arnold",
+    "club": "Liverpool",
+    "position": "Defender",
+    "salary": "10"
+  },
+  {
+    "id": "9",
+    "img": "https://i.ibb.co/yPFw5Y9/Gundogun.png",
+    "name": "İlkay Gündoğan",
+    "club": "Manchester City",
+    "position": "Midfilder",
+    "salary": "7"
+  },
+  {
+    "id": "10",
+    "img": "https://i.ibb.co/PFZwydZ/Bruno.png",
+    "name": "Bruno Fernandes",
+    "club": "Manchester United",
+    "position": "Midfielder",
+    "salary": "15"
+  },
+  {
+    "id": "11",
+    "img": "https://i.ibb.co/xjVKmyB/DeBruyne.png",
+    "name": "Kavin De Bruyne",
+    "club": "Manchester City",
+    "position": "Midfielder",
+    "salary": "15"
+  },
+  {
+    "id": "12",
+    "img": "https://i.ibb.co/vPxVjTX/Pogba.png",
+    "name": "Paul Pogba",
+    "club": "Manchester United",
+    "position": "Midfielder",
+    "salary": "25"
+  },
+  {
+    "id": "13",
+    "img": "https://i.ibb.co/5FFL8HN/Alcantara.png",
+    "name": "Thiago Alcântara",
+    "club": "Liverpool",
+    "position": "Midfielder",
+    "salary": "15"
+  },
+  {
+    "id": "14",
+    "img": "https://i.ibb.co/DtKs9Sx/Lukaku.png",
+    "name": "Romelu Lukaku",
+    "club": "Chelsea",
+    "position": "Forward",
+    "salary": "25"
+  },
+  {
+    "id": "15",
+    "img": "https://i.ibb.co/0q3wDqs/Ranaldo.png",
+    "name": "Cristiano Ronaldo",
+    "club": "Manchester United",
+    "position": "Forward",
+    "salary": "30"
+  },
+  {
+    "id": "16",
+    "img": "https://i.ibb.co/8rqtY2k/Sterling.png",
+    "name": "Raheem Sterling",
+    "club": "Manchester City",
+    "position": "Forward",
+    "salary": "15"
+  },
+  {
+    "id": "17",
+    "img": "https://i.ibb.co/f4HN3Kj/Salah.png",
+    "name": "Mohamed Salah",
+    "club": "Liverpool",
+    "position": "Forward",
+    "salary": "20"
+  },
+  {
+    "id": "18",
+    "img": "https://i.ibb.co/qyZtfNg/Mane.png",
+    "name": "Sadio Mane",
+    "club": "Liverpool",
+    "position": "Forward",
+    "salary": "14"
+  },
+  {
+    "id": "19",
+    "img": "https://i.ibb.co/2SpqRqN/Kane.png",
+    "name": "Harry Kane",
+    "club": "Tottenham Hotspur",
+    "position": "Forward",
+    "salary": "18"
+  },
+  {
+    "id": "20",
+    "img": "https://i.ibb.co/6BxwX7X/Firmino.png",
+    "name": "Roberto Firmino",
+    "club": "Liverpool",
+    "position": "Forward",
+    "salary": "10"
+  }
+]
