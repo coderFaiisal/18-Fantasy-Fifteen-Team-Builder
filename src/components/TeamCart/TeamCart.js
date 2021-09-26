@@ -7,7 +7,7 @@ const TeamCart = (props) => {
     (sum, player) => sum + parseFloat(player.salary),
     0
   );
-  console.log(teamPlayer);
+
   return (
     <div className="team-cart-container">
       <div>

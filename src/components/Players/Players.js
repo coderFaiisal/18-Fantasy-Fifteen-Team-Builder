@@ -14,7 +14,11 @@ const Players = () => {
   const [teamPlayer, setTeamPlayer] = useState([]);
   const handleAddPlayers = (player) => {
     const newTeamPlayer = [...teamPlayer, player];
-    setTeamPlayer(newTeamPlayer);
+    if (newTeamPlayer.length <= 15) {
+      setTeamPlayer(newTeamPlayer);
+    } else {
+      alert("You cross your team limit");
+    }
   };
   return (
     <div className="players-container">
